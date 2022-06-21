@@ -1,0 +1,13 @@
+.header {
+    position: fixed;
+    padding: 10px 0;
+    width: 100vw;
+    z-index: 10;
+
+    background-image: linear-gradient(to right, #dad299, #b0dab9);
+}
+
+.logo {
+    display: block;
+    width: 60px;
+}
